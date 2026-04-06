@@ -20,5 +20,7 @@ Personal notes, solutions, and references for Data Structures and Algorithms.
 | Topic | Notes |
 |---|---|
 | Trees | [View Notes](notes/trees) |
+| Linked List | [View Notes](notes/linkedlist) |
+| Stack | [View Notes](notes/stack) |
 
 ---
